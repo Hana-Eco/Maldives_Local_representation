@@ -1,5 +1,4 @@
-# Affiliation is not participation: local authorship and inequalities in 40 years of Maldivian marine research 
-### *Citation*:    
+# Affiliation is not participation: local authorship and inequalities in 40 years of Maldivian marine research   
 ### *Paper coding dataset DOI*:
 ### *Timeline dataset DOI:*
 
