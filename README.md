@@ -1,4 +1,7 @@
 # Affiliation is not participation: local authorship and inequalities in 40 years of Maldivian marine research   
+
+The datasets are currently subject to an embargo and will be made freely available once the article is published. 
+
 ### *Paper coding dataset DOI*:
 ### *Timeline dataset DOI:*
 
