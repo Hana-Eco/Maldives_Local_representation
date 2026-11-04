@@ -2,8 +2,8 @@
 
 The datasets are currently subject to an embargo and will be made freely available once the article is published. 
 
-### *Paper coding dataset DOI*:
-### *Timeline dataset DOI:*
+### *Paper coding dataset DOI*: https://doi.org/10.5281/zenodo.23944535
+### *Timeline dataset DOI*: https://doi.org/10.5281/zenodo.23945266 
 
 Descriptive assessment of peer reviewed marine science papers from the Maldives from 1985 to 2025. The assessment was paired with a description of the history of Maldivian marine science for context. 
 
